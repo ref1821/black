@@ -167,7 +167,7 @@ class New extends Component {
         }}
     }
     reload = () => {
-        window.location.reload(true);
+        window.location.reload()
     }
     render() {
         
