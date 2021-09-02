@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <div className='con'>
             <Nav></Nav>
-            <Link  to='/react-blackjack/play' className="pla">Play</Link>
+            <Link  to='/black/play' className="pla">Play</Link>
             <Bottom></Bottom>
         </div>
     )
