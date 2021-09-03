@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import './new.css'
+//https://black-c2597.web.app/
 class New extends Component {
     constructor(props) {
         super(props)
